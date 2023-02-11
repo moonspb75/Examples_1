@@ -1,0 +1,15 @@
+/Users/yanina/Examples_1/HomeWork_3/bin/Debug/net6.0/HomeWork_3
+/Users/yanina/Examples_1/HomeWork_3/bin/Debug/net6.0/HomeWork_3.deps.json
+/Users/yanina/Examples_1/HomeWork_3/bin/Debug/net6.0/HomeWork_3.runtimeconfig.json
+/Users/yanina/Examples_1/HomeWork_3/bin/Debug/net6.0/HomeWork_3.dll
+/Users/yanina/Examples_1/HomeWork_3/bin/Debug/net6.0/HomeWork_3.pdb
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.csproj.AssemblyReference.cache
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.AssemblyInfoInputs.cache
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.AssemblyInfo.cs
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.csproj.CoreCompileInputs.cache
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.dll
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/refint/HomeWork_3.dll
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.pdb
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/HomeWork_3.genruntimeconfig.cache
+/Users/yanina/Examples_1/HomeWork_3/obj/Debug/net6.0/ref/HomeWork_3.dll

@@ -1,0 +1,15 @@
+/Users/yanina/Examples_1/task_2switch/bin/Debug/net6.0/task_2switch
+/Users/yanina/Examples_1/task_2switch/bin/Debug/net6.0/task_2switch.deps.json
+/Users/yanina/Examples_1/task_2switch/bin/Debug/net6.0/task_2switch.runtimeconfig.json
+/Users/yanina/Examples_1/task_2switch/bin/Debug/net6.0/task_2switch.dll
+/Users/yanina/Examples_1/task_2switch/bin/Debug/net6.0/task_2switch.pdb
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.csproj.AssemblyReference.cache
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.AssemblyInfoInputs.cache
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.AssemblyInfo.cs
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.csproj.CoreCompileInputs.cache
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.dll
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/refint/task_2switch.dll
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.pdb
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/task_2switch.genruntimeconfig.cache
+/Users/yanina/Examples_1/task_2switch/obj/Debug/net6.0/ref/task_2switch.dll
